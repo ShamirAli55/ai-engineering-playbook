@@ -49,6 +49,15 @@ Each guide should follow this structure:
 * Use Markdown consistently.
 * Avoid unnecessary jargon.
 
+## Development Workflow
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Make your changes.
+4. Commit using clear commit messages.
+5. Push your branch.
+6. Open a Pull Request.
+
 ## Thank You
 
 Every contribution—big or small—helps make this project more useful for the AI engineering community.
