@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="AI Engineering Playbook Banner" width="1000">
+
 # AI Engineering Playbook
 
 ### The Complete Visual Handbook for Modern AI Engineering
