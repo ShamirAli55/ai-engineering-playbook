@@ -1,131 +1,161 @@
 <div align="center">
 
-<img src="./assets/banners/banner.png" alt="AI Engineering Playbook Banner" width="1000">
+<img src="./assets/banners/banner.png" alt="AI Engineering Playbook Banner" width="100%">
+
+<br>
 
 # AI Engineering Playbook
 
 ### The Complete Visual Handbook for Modern AI Engineering
 
-Learn Prompt Engineering, RAG, AI Agents, MCP, Cursor, Claude Code, LLMOps, and production-ready AI systems.
+Learn Prompt Engineering, RAG, AI Agents, MCP, Model Context Protocol (MCP), LLMOps, Retrieval-Augmented Generation, and production-ready AI systems.
 
-⭐ Star this repository if you find it useful!
+<p>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME/ai-engineering-playbook?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/YOUR_USERNAME/ai-engineering-playbook?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/ai-engineering-playbook?style=for-the-badge" />
+
+</p>
+
+<p>
+
+<a href="#-learning-roadmap">Roadmap</a> • <a href="#-documentation">Documentation</a> • <a href="#-contributing">Contributing</a> • <a href="./ROADMAP.md">Project Roadmap</a>
+
+</p>
+
+⭐ **If this repository helps you, consider giving it a star!**
 
 </div>
 
 ---
 
-## Why this repository?
+# 📖 About
 
-Modern AI development changes rapidly.
+Modern AI is evolving rapidly.
 
-Instead of collecting random links, this repository provides structured, visual, and practical guides that help developers understand how modern AI systems work.
+Instead of collecting hundreds of random links, **AI Engineering Playbook** provides structured, visual, and practical documentation covering the complete AI engineering stack—from prompt design to production deployment.
 
-Whether you're just getting started or building production applications, this playbook is designed to be a long-term reference.
+Whether you're learning, interviewing, or building production AI applications, this repository is designed to become your long-term reference.
 
 ---
 
-# Learning Roadmap
+# 🚀 Learning Roadmap
 
 ```text
 Prompt Engineering
-      ↓
+        │
+        ▼
 System Prompts
-      ↓
+        │
+        ▼
 Embeddings
-      ↓
+        │
+        ▼
 Chunking
-      ↓
+        │
+        ▼
 Vector Databases
-      ↓
+        │
+        ▼
 Retrieval
-      ↓
+        │
+        ▼
 Re-ranking
-      ↓
+        │
+        ▼
 RAG
-      ↓
-Agents
-      ↓
+        │
+        ▼
+AI Agents
+        │
+        ▼
 Memory
-      ↓
+        │
+        ▼
 MCP
-      ↓
+        │
+        ▼
 Evaluation
-      ↓
+        │
+        ▼
 LLMOps
-      ↓
-Production
+        │
+        ▼
+Production AI
 ```
 
 ---
 
-# Repository Structure
+# 📚 Documentation
 
-```text
-docs/
-├── Prompt Engineering
-├── RAG
-├── AI Agents
-├── MCP
-├── LLMOps
-├── Security
-└── Deployment
-```
-
----
-
-# What You'll Learn
-
-- Prompt Engineering
-- System Prompt Design
-- Retrieval-Augmented Generation (RAG)
-- Embeddings
-- Chunking Strategies
-- Vector Databases
-- Re-ranking
-- AI Agents
-- MCP
-- Memory Systems
-- Evaluation
-- LLMOps
-- Security Best Practices
+| Topic                                | Status |
+| ------------------------------------ | :----: |
+| Prompt Engineering                   |   🚧   |
+| System Prompts                       |   🚧   |
+| Embeddings                           |   🚧   |
+| Chunking                             |   🚧   |
+| Vector Databases                     |   🚧   |
+| Retrieval                            |   🚧   |
+| Re-ranking                           |   🚧   |
+| Retrieval-Augmented Generation (RAG) |   🚧   |
+| AI Agents                            |   🚧   |
+| Memory                               |   🚧   |
+| MCP                                  |   🚧   |
+| Evaluation                           |   🚧   |
+| LLMOps                               |   🚧   |
+| Deployment                           |   🚧   |
+| AI Security                          |   🚧   |
 
 ---
 
-# Planned Guides
+# ✨ What You'll Learn
 
-| Topic | Status |
-|--------|--------|
-| Prompt Engineering | 🚧 |
-| RAG Fundamentals | 🚧 |
-| Embeddings | 🚧 |
-| Chunking | 🚧 |
-| AI Agents | 🚧 |
-| MCP | 🚧 |
-| LLMOps | 🚧 |
-
----
-
-# Contributing
-
-Contributions are welcome!
-
-Whether you want to fix a typo, improve a guide, add diagrams, or contribute new content, your help is appreciated.
-
-Please read the Contributing Guide before opening a pull request.
+* Prompt Engineering fundamentals
+* Advanced prompting techniques
+* System prompt design
+* Retrieval-Augmented Generation (RAG)
+* Embeddings and vector search
+* Chunking strategies
+* Re-ranking pipelines
+* AI Agents and tool calling
+* Memory architectures
+* Model Context Protocol (MCP)
+* LLMOps and deployment
+* AI security best practices
 
 ---
 
-# Roadmap
+# 🎯 Project Goals
 
-- Complete Prompt Engineering section
-- Add RAG visual diagrams
-- Publish Agent workflows
-- Add MCP tutorials
-- Interactive examples
-- Website documentation
+* Build practical AI engineering documentation
+* Create high-quality visual diagrams
+* Publish production-ready examples
+* Maintain concise, beginner-friendly explanations
+* Become a community-driven learning resource
 
 ---
 
-# License
+# 🤝 Contributing
 
-MIT License
+Contributions of all sizes are welcome.
+
+Whether you're fixing typos, improving explanations, adding diagrams, or contributing new guides, your help makes this project better.
+
+Please read **CONTRIBUTING.md** before opening a pull request.
+
+---
+
+# 🗺️ Roadmap
+
+See the complete project roadmap here:
+
+**➡️ [ROADMAP.md](./ROADMAP.md)**
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+See **LICENSE** for more information.
