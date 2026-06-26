@@ -1,25 +1,15 @@
 # Support
 
-Need help?
+Thank you for using AI Engineering Playbook.
 
-## Questions
+## Need Help?
 
-If you have a question about AI Engineering Playbook:
+- Open a GitHub Discussion for questions.
+- Open an Issue to report bugs.
+- Submit a Pull Request if you'd like to contribute.
 
-- Start a GitHub Discussion
-- Search existing discussions before creating a new one
+## Before Opening an Issue
 
-## Bug Reports
-
-If you've found a bug:
-
-- Open an Issue
-- Include reproduction steps
-
-## Feature Requests
-
-Have an idea?
-
-Open a Feature Request issue and explain your proposal.
-
-Thank you for supporting the project!
+- Search existing issues.
+- Check the documentation.
+- Include clear reproduction steps if reporting a bug.
