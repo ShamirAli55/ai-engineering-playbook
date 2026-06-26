@@ -1,54 +1,33 @@
-# Contributing
+# Code of Conduct
 
-Thank you for your interest in contributing to **AI Engineering Playbook**!
+## Our Pledge
 
-This project aims to become one of the most practical and well-organized open-source resources for modern AI engineering. Whether you're fixing a typo, improving documentation, adding diagrams, or contributing entirely new guides, your help is appreciated.
+We are committed to fostering an open, welcoming, and inclusive environment for everyone, regardless of experience level, background, identity, or skill level.
 
-## Ways to Contribute
+## Our Standards
 
-* Improve existing documentation
-* Add practical examples
-* Create architecture diagrams
-* Fix spelling or grammar
-* Suggest new topics
-* Report bugs or outdated information
+Examples of positive behavior include:
 
-## Before You Start
+* Being respectful and welcoming.
+* Providing constructive feedback.
+* Accepting different viewpoints.
+* Helping newcomers learn.
+* Acting professionally in discussions.
 
-Please:
+Examples of unacceptable behavior include:
 
-* Search existing issues before creating a new one.
-* Open an issue before making large changes.
-* Keep documentation concise and practical.
-* Prefer real-world examples over theory.
+* Harassment or discrimination.
+* Personal attacks.
+* Trolling or inflammatory comments.
+* Publishing private information.
+* Any conduct that creates an unwelcoming environment.
 
-## Pull Request Guidelines
+## Enforcement
 
-1. Fork the repository.
-2. Create a descriptive branch.
-3. Make your changes.
-4. Test all examples if applicable.
-5. Submit a pull request with a clear description.
+Project maintainers are responsible for clarifying and enforcing this Code of Conduct.
 
-## Documentation Style
+Repeated or severe violations may result in warnings, temporary restrictions, or permanent removal from the community.
 
-Each guide should follow this structure:
+## Attribution
 
-1. Introduction
-2. Why It Matters
-3. Visual Explanation
-4. Practical Example
-5. Best Practices
-6. Common Mistakes
-7. References
-
-## Code Style
-
-* Keep examples minimal.
-* Explain every important concept.
-* Use Markdown consistently.
-* Avoid unnecessary jargon.
-
-## Thank You
-
-Every contribution—big or small—helps make this project more useful for the AI engineering community.
+This Code of Conduct is inspired by the Contributor Covenant and adapted for this project.
