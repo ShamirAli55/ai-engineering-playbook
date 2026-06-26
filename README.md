@@ -12,9 +12,9 @@ Learn Prompt Engineering, RAG, AI Agents, MCP, Model Context Protocol (MCP), LLM
 
 <p>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/ai-engineering-playbook?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/ai-engineering-playbook?style=for-the-badge" />
-<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/ai-engineering-playbook?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/ShamirAli55/ai-engineering-playbook?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/ShamirAli55/ai-engineering-playbook?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/ShamirAli55/ai-engineering-playbook?style=for-the-badge" />
 
 </p>
 
