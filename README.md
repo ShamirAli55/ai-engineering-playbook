@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner/banner.png" alt="AI Engineering Playbook Banner" width="1000">
+<img src="./assets/banners/banner.png" alt="AI Engineering Playbook Banner" width="1000">
 
 # AI Engineering Playbook
 
